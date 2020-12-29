@@ -34,7 +34,7 @@ endif
 #include <hello1.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_DESCRIPTION("LAB5AK2 advanced task: hello1\n");
+MODULE_DESCRIPTION("LAB6AK2 advanced task: hello1\n");
 MODULE_AUTHOR("Striletskiy Vadim IV-82\n");
 
 struct timeit_list {
@@ -122,7 +122,7 @@ module_exit(exit_hello);
 #include <hello1.h>
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_DESCRIPTION("LAB5AK2 advanced task: hello1\n");
+MODULE_DESCRIPTION("LAB6AK2 advanced task: hello1\n");
 MODULE_AUTHOR("Striletskiy Vadim IV-82\n");
 
 static uint n = 1;
